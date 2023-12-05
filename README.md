@@ -8,6 +8,8 @@ The website content is designed using HTML tags with headings, subheadings, main
 
 A proper semantically designed website with the help of assisstive technology gives a whole sense of webpage to users like document structure and navigation assistance. Making a website accessible is also good for business for many reasons, one of them being that accessible sites are better positioned in search engines like Google. 
 
+Link to the deployed project in Github:  https://dhivyakk.github.io/ch01-code-refactor/
+
 ## Installation
 
 Not applicable
